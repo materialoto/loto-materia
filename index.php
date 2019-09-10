@@ -117,6 +117,5 @@
          <!-- +++++ Projects Section +++++ -->
          <!-- /container -->
          <!-- +++++ Footer Section +++++ -->
-         
-      
+               
 <script id="jquery" src="http://gl7.me/architect/storage/projects/1/WluxDjUKbyEAidw9lpLeF9OUNdmlqFoqYdoh/js/jquery.min.js?=hlXKEwiE"></script><script id="framework-js" src="http://gl7.me/architect/storage/projects/1/WluxDjUKbyEAidw9lpLeF9OUNdmlqFoqYdoh/js/framework.js?=PGxIbV1S"></script><script id="template-js" src="http://gl7.me/architect/storage/projects/1/WluxDjUKbyEAidw9lpLeF9OUNdmlqFoqYdoh/js/template.js?=SYnumAcm"></script><script id="custom-js" src="http://gl7.me/architect/storage/projects/1/WluxDjUKbyEAidw9lpLeF9OUNdmlqFoqYdoh/js/scripts.js?=TCM3qvAy"></script></body></html>
